@@ -1,0 +1,23 @@
+{
+  "name": "testgns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "graphql": "^15.0.0",
+    "graphql-server-express": "^1.4.1",
+    "graphql-tools": "^5.0.0",
+    "pg-promise": "^10.5.1"
+  },
+  "devDependencies": {
+    "express-graphql": "^0.9.0"
+  }
+}
